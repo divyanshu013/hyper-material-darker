@@ -1,0 +1,16 @@
+{
+  "name": "hyper-material-darker",
+  "version": "1.0.0",
+  "description": "A material inspired dark theme for hyper with good contrast ratio",
+  "keywords": [
+    "hyper",
+    "theme",
+    "dark"
+  ],
+  "main": "index.js",
+  "author": {
+    "email": "div.blackcat@gmail.com",
+    "name": "Divyanshu Maithani",
+    "url": "https://github.com/divyanshu013"
+  }
+}
